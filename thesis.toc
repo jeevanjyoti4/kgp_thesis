@@ -1,0 +1,14 @@
+\contentsline {chapter}{Certificate}{ii}%
+\contentsline {chapter}{Acknowledgements}{iii}%
+\contentsline {chapter}{Abstract}{iv}%
+\contentsline {chapter}{\numberline {1}Sample Title}{1}%
+\contentsline {section}{\numberline {1.1}On Referencing}{1}%
+\contentsline {subsection}{\numberline {1.1.1}Citations within the text}{1}%
+\contentsline {subsubsection}{\numberline {1.1.1.1}Author names form part of the sentence}{2}%
+\contentsline {subsubsection}{\numberline {1.1.1.2}Author names do not form part of the sentence}{3}%
+\contentsline {subsection}{\numberline {1.1.2}List of References}{4}%
+\contentsline {chapter}{\numberline {2}Sample Title}{6}%
+\contentsline {chapter}{\numberline {3}Summary and Conclusions}{7}%
+\contentsline {chapter}{\numberline {A}Sample Title}{8}%
+\contentsline {chapter}{\numberline {B}Sample Title}{9}%
+\contentsline {chapter}{Bibliography}{10}%

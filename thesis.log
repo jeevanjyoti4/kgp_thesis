@@ -1,0 +1,290 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.22)  6 MAY 2021 19:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis
+(./thesis.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(c:/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count176
+)
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box45
+)
+(./thesis.aux (./frontmatter/titlepage.aux) (./frontmatter/certificate.aux)
+(./frontmatter/acknowlegements.aux) (./frontmatter/abstract.aux)
+(./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/conclusions.aux
+) (./chapters/appendix1.aux) (./chapters/appendix2.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count178
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count179
+\nofMParguments=\count180
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen138
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
+\everyMPtoPDFconversion=\toks18
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\openout2 = `./frontmatter/titlepage.aux'.
+
+
+(./frontmatter/titlepage.tex
+<./figures/./iitkgplogo.JPG, id=1, 918.43124pt x 1027.84pt>
+File: ./figures/./iitkgplogo.JPG Graphic file (type jpg)
+<use ./figures/./iitkgplogo.JPG>
+Package pdftex.def Info: ./figures/./iitkgplogo.JPG  used on input line 23.
+(pdftex.def)             Requested size: 91.04881pt x 101.88037pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [1
+
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/./iit
+kgplogo.jpg>]
+\openout2 = `./frontmatter/certificate.aux'.
+
+
+(./frontmatter/certificate.tex) [2
+
+
+]
+\openout2 = `./frontmatter/acknowlegements.aux'.
+
+ (./frontmatter/acknowlegements.tex)
+[3
+
+
+]
+\openout2 = `./frontmatter/abstract.aux'.
+
+ (./frontmatter/abstract.tex) [4
+
+
+] (./thesis.toc)
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ [5
+
+
+] (./thesis.lof)
+\tf@lof=\write4
+\openout4 = `thesis.lof'.
+
+ [6
+
+]
+\openout2 = `./chapters/chapter1.aux'.
+
+
+(./chapters/chapter1.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[1
+
+
+
+] [2]
+Overfull \hbox (5.85591pt too wide) in paragraph at lines 86--88
+[]\OT1/cmr/m/n/12 ``The pa-per by (Ein-stein, 1905) opened an en-tirely new fie
+ld of physics."[] 
+ []
+
+[3]
+Overfull \hbox (5.62407pt too wide) in paragraph at lines 92--93
+\OT1/cmr/m/n/12 buck-ling (Chakraborty et al., 2015\OT1/cmr/m/it/12 a\OT1/cmr/m
+/n/12 ), and length in-crease (Chakraborty
+ []
+
+
+Overfull \hbox (21.10019pt too wide) in paragraph at lines 98--99
+\OT1/cmr/m/n/12 in-cluded var-i-ous fea-tures like diffusion-induced stress and
+ stress-influenced
+ []
+
+[4]
+<./figures/./ch1_figs/trial.pdf, id=43, 421.575pt x 316.18124pt>
+File: ./figures/./ch1_figs/trial.pdf Graphic file (type pdf)
+<use ./figures/./ch1_figs/trial.pdf>
+Package pdftex.def Info: ./figures/./ch1_figs/trial.pdf  used on input line 123
+.
+(pdftex.def)             Requested size: 216.81pt x 162.61081pt.
+) [5 <./figures/./ch1_figs/trial.pdf>]
+\openout2 = `./chapters/chapter2.aux'.
+
+ (./chapters/chapter2.tex
+Chapter 2.
+) [6
+
+
+
+]
+\openout2 = `./chapters/conclusions.aux'.
+
+ (./chapters/conclusions.tex
+Chapter 3.
+) [7
+
+
+
+]
+\openout2 = `./chapters/appendix1.aux'.
+
+ (./chapters/appendix1.tex
+Appendix A.
+) [8
+
+
+
+]
+\openout2 = `./chapters/appendix2.aux'.
+
+ (./chapters/appendix2.tex
+Appendix B.
+) [9
+
+
+
+] (./thesis.bbl) [10
+
+
+] (./thesis.aux (./frontmatter/titlepage.aux)
+(./frontmatter/certificate.aux) (./frontmatter/acknowlegements.aux)
+(./frontmatter/abstract.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux
+) (./chapters/conclusions.aux) (./chapters/appendix1.aux)
+(./chapters/appendix2.aux)) ) 
+Here is how much of TeX's memory you used:
+ 2231 strings out of 480608
+ 30640 string characters out of 5907535
+ 264754 words of memory out of 5000000
+ 18053 multiletter control sequences out of 15000+600000
+ 541490 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,8n,31p,717b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-sup
+er/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmti12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-
+super/sfrm1200.pfb>
+Output written on thesis.pdf (16 pages, 416558 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
