@@ -1,4 +1,4 @@
-\documentclass[12pt]{report} 
+\documentclass[12pt,twoside,openright]{report} 
 
 
 
@@ -19,6 +19,13 @@
 %input macros (i.e. write your own macros file called mymacros.tex 
 %and uncomment the next line)
 %\include{mymacros}
+
+\newcommand\emptypage{
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+}
 
 \def\mytitle{Thesis title long title very long title indeed a long title so long that it goes to next line}
 \def\myname{Mech. Student A and Mech. Student B}
@@ -48,18 +55,31 @@
 \include{./frontmatter/titlepage}
 %\maketitle
 %\include{dedication}        % include a dedication.tex file
+\emptypage
 \addcontentsline{toc}{chapter}{Certificate}
 \include{./frontmatter/certificate}
+\emptypage
+\addcontentsline{toc}{chapter}{Declaration}
+\include{./frontmatter/declaration}
+\emptypage
 \addcontentsline{toc}{chapter}{Acknowledgements}
-\include{./frontmatter/acknowlegements}   % include an acknowledgements.tex file
+\include{./frontmatter/acknowlegements}   
+\emptypage
+\addcontentsline{toc}{chapter}{List of Symbols and Abbreviations}
+\include{./frontmatter/symbabbrev} 
+\emptypage
 \addcontentsline{toc}{chapter}{Abstract}
 \include{./frontmatter/abstract} 
 
 %\begin{romanpages}          % start roman page numbering
 \tableofcontents            % generate and include a table of contents
-\listoffigures              % generate and include a list of figures
+%\listoffigures              % generate and include a list of figures
 %\end{romanpages}            % end roman page numbering
+
+
 \clearpage
+
+
 \pagenumbering{arabic}
 %now include the files of latex for each of the chapters etc
 \include{./chapters/chapter1}
@@ -72,7 +92,7 @@
 \include{./chapters/appendix2}
 
 %next line adds the Bibliography to the contents page
-\addcontentsline{toc}{chapter}{Bibliography}
+\addcontentsline{toc}{chapter}{References}
 %uncomment next line to change bibliography name to references
 %\renewcommand{\bibname}{References}
 \bibliographystyle{agsm}  %use the plain bibliography style

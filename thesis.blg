@@ -3,7 +3,9 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: ./frontmatter/titlepage.aux
 A level-1 auxiliary file: ./frontmatter/certificate.aux
+A level-1 auxiliary file: ./frontmatter/declaration.aux
 A level-1 auxiliary file: ./frontmatter/acknowlegements.aux
+A level-1 auxiliary file: ./frontmatter/symbabbrev.aux
 A level-1 auxiliary file: ./frontmatter/abstract.aux
 A level-1 auxiliary file: ./chapters/chapter1.aux
 A level-1 auxiliary file: ./chapters/chapter2.aux
@@ -14,7 +16,7 @@ The style file: agsm.bst
 Database file #1: refs.bib
 You've used 6 entries,
             2909 wiz_defined-function locations,
-            692 strings with 6195 characters,
+            694 strings with 6252 characters,
 and the built_in function-call counts, 27592 in all, are:
 = -- 4503
 > -- 370
