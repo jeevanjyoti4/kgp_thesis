@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.22)  7 MAY 2021 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.22)  8 MAY 2021 19:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -237,27 +237,23 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count193
 \l__pdf_internal_box=\box48
 )
-(./thesis.aux (./frontmatter/titlepage.aux) (./frontmatter/certificate.aux)
-(./frontmatter/declaration.aux) (./frontmatter/acknowlegements.aux)
-(./frontmatter/symbabbrev.aux) (./frontmatter/abstract.aux)
-(./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/conclusions.aux
-) (./chapters/appendix1.aux) (./chapters/appendix2.aux))
+(./thesis.aux (./frontmatter/titlepage.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -350,6 +346,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
  (./chapters/chapter1.tex
 Chapter 1.
 
+Package natbib Warning: Citation `2013JMPSCui' on page 1 undefined on input lin
+e 12.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
@@ -358,17 +358,72 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 
 
-] [2]
-Overfull \hbox (5.85591pt too wide) in paragraph at lines 86--88
-[]\OT1/cmr/m/n/12 ``The pa-per by (Ein-stein, 1905) opened an en-tirely new fie
-ld of physics."[] 
- []
+]
+
+Package natbib Warning: Citation `Einstein3' on page 2 undefined on input line 
+26.
+
+
+Package natbib Warning: Citation `Einstein3' on page 2 undefined on input line 
+41.
+
+
+Package natbib Warning: Citation `2008ChengVerbrugge' on page 2 undefined on in
+put line 42.
+
+
+Package natbib Warning: Citation `2013JMPSCui' on page 2 undefined on input lin
+e 48.
+
+
+Package natbib Warning: Citation `2008ChengVerbrugge' on page 2 undefined on in
+put line 53.
+
+
+Package natbib Warning: Citation `2009ChengVerbrugge' on page 2 undefined on in
+put line 53.
+
+[2]
+
+Package natbib Warning: Citation `2015IJSSChakraborty' on page 3 undefined on i
+nput line 59.
+
+
+Package natbib Warning: Citation `2015JPSChakraborty' on page 3 undefined on in
+put line 59.
+
+
+Package natbib Warning: Citation `Einstein3' on page 3 undefined on input line 
+72.
+
+
+Package natbib Warning: Citation `Einstein3' on page 3 undefined on input line 
+86.
+
+
+Package natbib Warning: Citation `Einstein3' on page 3 undefined on input line 
+87.
+
+
+Package natbib Warning: Citation `2008ChengVerbrugge' on page 3 undefined on in
+put line 92.
+
+
+Package natbib Warning: Citation `2015IJSSChakraborty' on page 3 undefined on i
+nput line 92.
+
+
+Package natbib Warning: Citation `2015JPSChakraborty' on page 3 undefined on in
+put line 92.
 
 [3]
-Overfull \hbox (5.62407pt too wide) in paragraph at lines 92--93
-\OT1/cmr/m/n/12 buck-ling (Chakraborty et al., 2015\OT1/cmr/m/it/12 a\OT1/cmr/m
-/n/12 ), and length in-crease (Chakraborty
- []
+
+Package natbib Warning: Citation `2008ChengVerbrugge' on page 4 undefined on in
+put line 98.
+
+
+Package natbib Warning: Citation `2013JMPSCui' on page 4 undefined on input lin
+e 98.
 
 
 Overfull \hbox (21.10019pt too wide) in paragraph at lines 98--99
@@ -376,14 +431,13 @@ Overfull \hbox (21.10019pt too wide) in paragraph at lines 98--99
  stress-influenced
  []
 
-[4]
-<./figures/./ch1_figs/trial.pdf, id=65, 421.575pt x 316.18124pt>
+<./figures/./ch1_figs/trial.pdf, id=62, 421.575pt x 316.18124pt>
 File: ./figures/./ch1_figs/trial.pdf Graphic file (type pdf)
 <use ./figures/./ch1_figs/trial.pdf>
 Package pdftex.def Info: ./figures/./ch1_figs/trial.pdf  used on input line 123
 .
 (pdftex.def)             Requested size: 216.81pt x 162.61081pt.
-) [5 <./figures/./ch1_figs/trial.pdf>]
+) [4] [5 <./figures/./ch1_figs/trial.pdf>]
 \openout2 = `./chapters/chapter2.aux'.
 
  (./chapters/chapter2.tex [6
@@ -424,89 +478,95 @@ LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <8> not available
 LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <6> not available
 (Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 26.
 
- [7] [8] [9]
+ [7] [8]
 LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <10> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 102.
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 99.
 LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <7> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 102.
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 99.
 LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <5> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 102.
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 99.
 LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <10> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 102
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <7> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 102
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <5> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 102
-.
-)
-[10
+(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 99.
 
-]
+LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <7> not available
+(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 99.
+
+LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <5> not available
+(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 99.
+
+ [9]
+[10]) [11]
 \openout2 = `./chapters/conclusions.aux'.
 
- (./chapters/conclusions.tex
-Chapter 3.
-) [11
+ (./chapters/conclusions.tex [12
 
 
 
 ]
+Chapter 3.
+) [13]
 \openout2 = `./chapters/appendix1.aux'.
 
- (./chapters/appendix1.tex [12
+ (./chapters/appendix1.tex [14
 
 
 
 ]
 Appendix A.
-) [13]
+) [15]
 \openout2 = `./chapters/appendix2.aux'.
 
- (./chapters/appendix2.tex [14
+ (./chapters/appendix2.tex [16
 
 
 
 ]
 Appendix B.
-) [15] (./thesis.bbl [16
+) [17] (./thesis.bbl [18
 
 
-]) [17] (./thesis.aux (./frontmatter/titlepage.aux)
-(./frontmatter/certificate.aux) (./frontmatter/declaration.aux)
-(./frontmatter/acknowlegements.aux) (./frontmatter/symbabbrev.aux)
-(./frontmatter/abstract.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux
-) (./chapters/conclusions.aux) (./chapters/appendix1.aux)
-(./chapters/appendix2.aux)) ) 
+])
+
+Package natbib Warning: There were undefined citations.
+
+[19] (./thesis.aux (./frontmatter/titlepage.aux) (./frontmatter/certificate.aux
+) (./frontmatter/declaration.aux) (./frontmatter/acknowlegements.aux)
+(./frontmatter/symbabbrev.aux) (./frontmatter/abstract.aux)
+(./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/conclusions.aux
+) (./chapters/appendix1.aux) (./chapters/appendix2.aux)
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
 Here is how much of TeX's memory you used:
- 3627 strings out of 480608
- 53198 string characters out of 5907535
- 300064 words of memory out of 5000000
- 19372 multiletter control sequences out of 15000+600000
+ 3597 strings out of 480608
+ 52392 string characters out of 5907535
+ 296643 words of memory out of 5000000
+ 19362 multiletter control sequences out of 15000+600000
  548457 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,29p,794b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-sup
-er/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/te
-xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2020/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/te
-xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/202
-0/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2020/texmf-d
-ist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2020/texmf-dist/fo
-nts/type1/public/hfbright/hfbrmb10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
-public/cm-super/sfrm1200.pfb>
-Output written on thesis.pdf (30 pages, 489779 bytes).
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/te
+xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmib10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmti12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/eule
+r/eurm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/hfbright/hfbrmb10.p
+fb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on thesis.pdf (32 pages, 502332 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
+ 182 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
