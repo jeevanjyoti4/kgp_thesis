@@ -10,7 +10,7 @@
 \contentsline {subsubsection}{\numberline {1.1.1.2}Author names do not form part of the sentence}{3}%
 \contentsline {subsection}{\numberline {1.1.2}List of References}{4}%
 \contentsline {chapter}{\numberline {2}Sample Title}{7}%
-\contentsline {chapter}{\numberline {3}Summary and Conclusions}{9}%
-\contentsline {chapter}{\numberline {A}Sample Title}{11}%
-\contentsline {chapter}{\numberline {B}Sample Title}{13}%
-\contentsline {chapter}{References}{14}%
+\contentsline {chapter}{\numberline {3}Summary and Conclusions}{11}%
+\contentsline {chapter}{\numberline {A}Sample Title}{13}%
+\contentsline {chapter}{\numberline {B}Sample Title}{15}%
+\contentsline {chapter}{References}{16}%

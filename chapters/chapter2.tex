@@ -1,3 +1,120 @@
 \chapter{Sample Title}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+A number of different conventions are used by different authors to denote scalars, vectors, and tensors and other mathematical entities. However, there are ISO standard specifications for these. In the following, some of these specifications are mentioned in addition to some well-established rules of mathematical typesetting:
+
+\begin{itemize}
+\item The overarching rule is that symbols representing variables or physical quantities are in italics. 
+
+\item Scalars are in italics. For example:
+\begin{quote}
+length: $l$ \\ 
+temperature: $T$
+\end{quote}
+
+\item Vectors are in bold italics. For example:
+\begin{quote}
+velocity: $\vectorsym{v}$, \\ 
+position vector in the reference configuration: $\vectorsym{X}$, \\ 
+position vector in the current configuration: $\vectorsym{x}$.
+\end{quote}
+
+\item Tensors are in sans-serif bold italics. For example:
+\begin{quote}
+deformation gradient: $\tensorsym{F}$, \\
+finite strain tensor: $\tensorsym{E}$, \\
+stress tensor: $\tensorsym{\sigma}$ (sans serif is not applicable here).
+\end{quote}
+
+\item Mathematical constants are upright. For example:
+\begin{quote}
+pi: $\uppi = 3.1416\ldots$ (note the difference with $\pi$), \\
+Euler number: $\mathrm{e} = 2.7182\ldots$, \\
+the imaginary unit: $\mathrm{i} = \sqrt{-1}$.
+\end{quote}
+
+\item Mathematical operators are upright. For example:
+\begin{quote}
+ordinary differential: $\mathrm{d}$ (as in $\displaystyle \frac{\mathrm{d} y}{\mathrm{d}x}$),\\
+variational operator: $\updelta$ (note the difference with $\delta$).
+\end{quote}
+
+\item Partial derivatives should be expressed using the $\partial$ operator, never the $\delta$ operator or anything else: $\displaystyle \frac{\partial y}{\partial x}$
+
+\item Mathematical functions are upright. For example:
+\begin{quote}
+$\sin x$ \quad (\textcolor{red}{$\text{never} \; \sin x$}), \\
+$\cos x$ \quad (\textcolor{red}{$\text{never} \; \cos x$}), \\
+$\log x$ \quad (\textcolor{red}{$\text{never} \; \log x$}), \\
+$\sinh x$ \quad (\textcolor{red}{$\text{never} \; \sinh x$}) and so on.
+\end{quote}
+
+\item In lists where ellipsis ($\ldots$) are used, commas should be used after each term in the list and also after the ellipsis points if the list ends with a final term. For example:
+\begin{quote}
+$n = 0, 1, 2, \ldots$ \quad (\textcolor{red}{ $\text{not} \;\; n=0, 1, 2 \ldots$  }), \\
+$x_1, x_2, \ldots, x_n$ \quad (\textcolor{red}{ $\text{not} \;\; x_1, x_2, \ldots x_n$  }).
+\end{quote}
+Notice, in the above, that the ellipsis points are on the baseline. Compare the difference with the next point.
+
+\item In long sums or relations involving ellipsis, the symbols should be appear on either side of the ellipsis points. Furthermore, the ellipsis points should be vertically centered between the symbols. For example:
+\begin{quote}
+$x_1 + x_2 + \cdots + x_n$ \quad (\textcolor{red}{$\text{not} \;\;  x_1 + x_2 + \ldots + x_n$}), \\
+$a_1 < a_2 < \cdots < a_n$ \quad (\textcolor{red}{$\text{not} \;\; a_1 < a_2 < \ldots < a_n$}).
+\end{quote} 
+
+\item Multiplication is usually signified by placing the factors side-by-side without the explicit use of any dot or `$\times$' sign. Thus,
+\begin{quote}
+$a b c$ means the product of $a$, $b$, and $c$. 
+\end{quote}
+
+\item The `$\times$' sign may sometimes be used to represent product, depending on the context. However, note the particular sign; it is \textcolor{red}{not `$\mathrm{x}$' or the `$*$' sign.} 
+
+
+
+\item When the vector cross product is to be represented, the bold `$\boldsymbol{\times}$' must be used. For example:
+\begin{quote}
+$\vectorsym{a} \boldsymbol{\times} \vectorsym{b}$ \quad (\textcolor{red}{not $\vectorsym{a} \times \vectorsym{b}$})
+\end{quote}
+
+\clearpage
+
+\item When the dot product is to be represented, the bold centred dot `$\boldsymbol{\cdot}$' must be used. For example:
+\begin{quote}
+$\vectorsym{a} \boldsymbol{\cdot} \vectorsym{b}$ \quad (\textcolor{red}{not $\vectorsym{a} \cdot \vectorsym{b}$ or $\vectorsym{a} . \vectorsym{b}$})
+\end{quote}
+
+\item When operations using the gradient operator are to be used, the bold `$\bs{\nabla}$' instead of the plain `$\nabla$' must be used. For example:
+\begin{quote}
+Curl of a vector: $\bs{\nabla} \bs{\times} \vectorsym{v}$, \\
+Divergence of a vector: $\bs{\nabla} \bs{\cdot} \vectorsym{v}$, \\
+Gradient of a scalar: $\bs{\nabla} \varphi$.
+\end{quote}
+
+\vspace{1cm}
+
+
+\item There are subtle differences between the minus sign `$-$', the hyphen `-', and what are referred to in typography as the en dash `--' and the em dash `---'. Let us set them side by side: the minus, the hyphen, the en dash, and the em dash, respectively:
+\begin{quote}
+$-$, -, -- , ---
+\end{quote}
+From the above, it may appear that there is barely any difference between the minus sign and the en dash. But the spacing around them is supposed to be different. You can use Unicode to typeset these. If you are on MS Word, type 2212 and then press Alt+X; it will display the minus sign. For the en dash, type 2013 and then press Alt+X. For the em dash, it is 2014. Unless you are a typography geek, don't worry too much about the difference between the minus sign and the en dash. In any case, the {\em very} subtle differences between the minus sign and the en dash may not even display properly depending on the hardware and/or software you are using! So go ahead and use them interchangeably.\footnote{The world will {\em not} burn.}
+
+
+\item There is a tendency among many people to use the hyphen `-' interchangeably with the minus sign `$-$'. That's completely wrong, and please don't do it.\footnote{The world will {\em still} not burn if you do. But, why shy away from adding a little beauty to the world?}
+\begin{quote}
+$-2$, $-v$ \quad (\textcolor{red}{not -2 or -$v$}). 
+\end{quote}
+
+
+\begin{comment}
+\item When writing negative numbers, there should not be any gap between the `$-$' sign and the number/variable. For example:
+\begin{quote}
+$-2$ \quad (\textcolor{red}{not $-$ $2$}). 
+\end{quote}
+\end{comment}
+
+
+\end{itemize}
+

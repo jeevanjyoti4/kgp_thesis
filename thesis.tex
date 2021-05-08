@@ -1,9 +1,12 @@
 \documentclass[12pt,twoside,openright]{report} 
-
-
+\usepackage{mathtools}
+\usepackage{bm}
+\usepackage{isomath}
+\usepackage{verbatim}
+\usepackage{upgreek}
 
 %load any additional packages
-\usepackage{amssymb}
+%\usepackage{amssymb}
 \usepackage{graphicx,color}
 \usepackage{natbib}
 \setcitestyle{citesep={;}, aysep={,}, yysep={,}}
@@ -20,6 +23,7 @@
 %and uncomment the next line)
 %\include{mymacros}
 
+\newcommand{\bs}[1]{\boldsymbol{#1}}
 \newcommand\emptypage{
 \newpage
 \thispagestyle{empty}
